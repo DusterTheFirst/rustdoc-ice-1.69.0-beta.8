@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name    = "ice"
+version = "0.1.0"
+
+[dependencies]
+clap = { version = "3.2.23", default-features = false, features = ["std"] }
